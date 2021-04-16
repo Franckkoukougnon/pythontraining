@@ -12,3 +12,4 @@ vitesse = distance / temps
 vitesse_arrondi = round(vitesse, 2)
 
 print(vitesse_arrondi)
+
