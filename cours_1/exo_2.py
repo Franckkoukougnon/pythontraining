@@ -9,4 +9,4 @@ age = int(input("quel est ton age ?"))
 nom = str(input("quel est ton nom ?"))
 
 print(f"tu t'appelle {nom} et tu as {age} ans ")
-print(type(nom))
+
