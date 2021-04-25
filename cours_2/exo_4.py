@@ -6,4 +6,4 @@ b = 10
 while a < b:
     print(f"{a}  est inferieur a {b} " )
     a = a + 1
-print ("fin")
+print (f"{a} est egal à {b}")
